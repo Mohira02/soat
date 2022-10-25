@@ -9,7 +9,7 @@ background-color: rgb(243, 234, 234);
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    color: rgb(226, 245, 245);
+    color: rgb(93, 226, 226);
     font-size: 70px;
     font-family: Orbitron;
     letter-spacing: 7px;
@@ -77,7 +77,7 @@ body.night{
 @media (max-width:768px) {
     .romka{
         width: 400px;
-       margin-top: 435px;
+       margin-top: 72%;
     }
     @keyframes romka{
         0%{width: 200px;}
